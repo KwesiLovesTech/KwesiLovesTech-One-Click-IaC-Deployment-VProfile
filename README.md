@@ -28,7 +28,7 @@ All VMs are provisioned using **Vagrant**, and configurations are applied using 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/oneclick-iac-deployment.git
+git clone https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git
 
 cd oneclick-iac-deployment
 ```
