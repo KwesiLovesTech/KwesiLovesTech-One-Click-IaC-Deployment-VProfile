@@ -106,6 +106,3 @@ This project is built for DevOps learning, testing, and demonstration purposes. 
 
 ---
 
-## 🤝 Acknowledgments
-
-Inspired by real-world enterprise stack patterns and VProfile project architecture.
