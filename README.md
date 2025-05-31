@@ -30,7 +30,7 @@ All VMs are provisioned using **Vagrant**, and configurations are applied using 
 ```bash
 git clone https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git
 
-cd oneclick-iac-deployment
+cd KwesiLovesTech-One-Click-IaC-Deployment-VProfile-main
 ```
 
 ### 2️⃣ Launch the Full Stack
