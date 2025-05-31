@@ -29,6 +29,7 @@ All VMs are provisioned using **Vagrant**, and configurations are applied using 
 
 ```bash
 git clone https://github.com/yourusername/oneclick-iac-deployment.git
+
 cd oneclick-iac-deployment
 ```
 
