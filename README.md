@@ -1,7 +1,7 @@
 
 # 🚀 One-Click IaC Deployment HomeLab
 
-This project enables a **One-Click Deployment** of a complete multi-tier web application stack using **Infrastructure as Code (IaC)** principles. It leverages **Vagrant**, **VirtualBox**, and **Bash scripts** to provision and configure each tier automatically, from infrastructure setup to application deployment.
+This project enables a **One-Click Deployment** of a complete multi-tier web application stack using **Infrastructure as Code (IaC)** principles. It leverages **Vagrant**, **VirtualBox**, and **Bash scripts** to provision and configure each tier automatically, from infrastructure setup to application deployment on your local  machine.
 
 ---
 
